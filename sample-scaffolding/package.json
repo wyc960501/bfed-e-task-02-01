@@ -1,9 +1,0 @@
-{
-  "name": "sample-scaffolding",
-  "version": "1.0.0",
-  "main": "index.js",
-  "bin": "cli.js",
-  "repository": "https://github.com/wyc960501/bfed-e-task-02-01",
-  "author": "wyc",
-  "license": "MIT"
-}
